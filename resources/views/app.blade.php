@@ -30,10 +30,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
             position: fixed !important;
             bottom: 0 !important;
         }
-
     </style>
 
-    <title>SIKM KemenagPessel - Sistem Indeks Kepuasan Masyarakat</title>
+    <title>SIKM SMAN 3 PAINAN</title>
 
     <script src="https://upload-widget.cloudinary.com/global/all.js" type="text/javascript"></script>
 </head>

@@ -2,9 +2,9 @@
     <nav class="main-header navbar navbar-expand-md navbar-light navbar-white">
         <div class="container-fluid">
             <a href="/landing" class="navbar-brand">
-                <img src="http://res.cloudinary.com/kemenagpessel/image/upload/v1678080743/arsip_masuk/o2w50c0hdc98alyizelk.jpg"
+                <img src="https://res.cloudinary.com/dezj1x6xp/image/upload/v1700714219/PandanViewMandeh/logo_sma3painanopacity_j4yyfh.png"
                     alt="AdminLTE Logo" class="brand-image" style="opacity: .8">
-                <span class="brand-text font-weight-light">SIKM KemenagPessel</span>
+                <span class="brand-text font-weight-light">SIKM SMAN 3 PAINAN</span>
             </a>
             <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                 aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">

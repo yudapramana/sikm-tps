@@ -3,11 +3,11 @@
         <div class="container">
             <div class="row mb-2 justify-content-md-center">
                 <div class="col-sm-5">
-                    <h1 class="m-0"> Tentang <strong>SIKM KemenagPessel</strong></h1>
+                    <h1 class="m-0"> Tentang <strong>SIKM SMAN 3 PAINAN</strong></h1>
                 </div>
                 <div class="col-sm-5">
                     <ol class="breadcrumb float-sm-right">
-                        <li class="breadcrumb-item"><a href="#">SIKM KemenagPessel</a></li>
+                        <li class="breadcrumb-item"><a href="#">SIKM SMAN 3 PAINAN</a></li>
                         <li class="breadcrumb-item"><a href="#">Tentang</a></li>
                         <li class="breadcrumb-item active">Index</li>
                     </ol>
@@ -23,7 +23,7 @@
                 <div class="col-lg-10">
                     <div class="card">
                         <div class="card-header">
-                            <h4 class="card-title m-0">Tentang SIKM KemenagPessel </h4>
+                            <h4 class="card-title m-0">Tentang SIKM SMAN 3 PAINAN </h4>
                         </div>
 
                         <div class="card-body">

@@ -436,7 +436,7 @@
 
                 <div class="image-box mb-3">
                     <center>
-                    <img src="http://res.cloudinary.com/kemenagpessel/image/upload/v1685517991/arsip_masuk/gn3bzggmztxmtndmrobc.png" alt="AdminLTE Logo">
+                    <img src="http://res.cloudinary.com/dezj1x6xp/image/upload/v1701061822/PandanViewMandeh/QRCODE_SIKM_dre3e5.png" alt="AdminLTE Logo">
                     </center>
                 </div>
 
