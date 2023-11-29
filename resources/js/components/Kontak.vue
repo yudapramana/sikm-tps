@@ -27,24 +27,24 @@
                         </div>
 
                         <div class="card-body text-center">
-                            <div class="text-center">
+                            <div class="row text-center">
 
-                                <p style="font-size:x-large">
-                                    <i>
-                                        <b>
-                                            “Untuk Pengaduan, Laporan, Konsultasi mengenai Masalah, Bug, atau Saran pada
-                                            Aplikasi Silahkan Langsung Hubungi Admin”
-                                        </b>
-                                    </i>
-                                </p>
+                                <h3>
+                                    <p>
+                                        <i>
+                                            <b>
+                                                “Untuk Layanan Pembuatan Web, Pengaduan, Laporan, Konsultasi mengenai Masalah, Bug, atau Saran pada
+                                                Aplikasi Silahkan Langsung Hubungi Admin”
+                                            </b>
+                                        </i>
+                                    </p>
+                                </h3>
 
-                                <p style="font-size:large">
-                                    ADMIN : Pramana Yuda Sayeti, S.Kom <br>
+                                <h5>
+                                    Pramana Yuda, S.Kom <br>
                                     Kontak : 0896 7754 2744 <br>
-                                </p> 
-                                <br>
-                                <small>(CPNS Pranata Komputer di Subbagian Tata Usaha Kantor Kementerian Agama Kab. Pesisir
-                                    Selatan)</small>
+                                </h5>
+                                <small>( Bacaro Consultant LTD)</small>
 
                             </div>
                         </div>

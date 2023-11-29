@@ -21,7 +21,7 @@
             <div class="mx-5 text-white">
                 <h1>{{ timestamp }}</h1>
                 <h1 class="display-4">S-IKM</h1>
-                <h2 style="font-size:x-large !important;">Kementerian Agama</h2>
+                <h2 style="font-size:x-large !important;">Sekolah Menengah Atas 3 Painan</h2>
                 <h2 style="font-size:x-large !important;">Kabupaten Pesisir Selatan</h2>
                 <p class="lead">
                     <router-link to="tentang" class="btn btn-primary btn-lg btn-sm" role="button">Pelajari Lebih
