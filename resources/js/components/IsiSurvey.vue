@@ -5,7 +5,7 @@
                 <div class="col-sm-12">
                     <h1 class="m-0">
                         Survey<strong> Kepuasan Pelayanan&nbsp;</strong>
-                        <span class="m-0 text-muted" style="font-size:smaller !important;">KemenagPessel</span>
+                        <span class="m-0 text-muted" style="font-size:smaller !important;">SMAN 3 PAINAN</span>
 
                     </h1>
                 </div>
@@ -34,7 +34,8 @@
                 <div class="questionContainer" v-if="questionIndex == -1" v-bind:key="questionIndex">
 
                     <header>
-                        <h1 style="font-size:x-large !important; margin: 0 !important;">Survey Indeks Kepuasan Masyarakat</h1>
+                        <h1 style="font-size:x-large !important; margin: 0 !important;">Survey Indeks Kepuasan Masyarakat
+                        </h1>
 
                         <h1 style="font-size:large !important; margin: 0 !important; color: dimgray;">.: Biodata Responden
                             :.</h1>
@@ -62,7 +63,8 @@
 
                                     <div class="col-sm-9">
                                         <i v-show="loadingPelayanan" class="fa fa-spinner fa-spin"></i>
-                                        <Select2 v-show="!loadingPelayanan" v-model="form.id_layanan" :options="myOptionsLayanan"
+                                        <Select2 v-show="!loadingPelayanan" v-model="form.id_layanan"
+                                            :options="myOptionsLayanan"
                                             :settings="{ theme: 'default', width: '100%', placeholder: 'Pilih Layanan' }"
                                             required></Select2>
                                     </div>
@@ -427,24 +429,25 @@
         </div>
 
         <div class="qr-code mb-3" style="justify-content: center; text-align: center;">
-                <div class="box">
-                    Atau
-                </div>
-                <div class="box mb-3">
-                    Anda dapat mengisi survey dengan Perangkat HP Anda dengan scan QR CODE dibawah ini:
-                </div>
-
-                <div class="image-box mb-3">
-                    <center>
-                    <img src="http://res.cloudinary.com/dezj1x6xp/image/upload/h_250/v1701061822/PandanViewMandeh/QRCODE_SIKM_dre3e5.png" alt="AdminLTE Logo">
-                    </center>
-                </div>
-
-                <div class="box">
-                    Aplikasi QRCODE dapat di download di PlayStore dengan mencari "QRCODE" di Smartphone Anda
-                </div>
-                
+            <div class="box">
+                Atau
             </div>
+            <div class="box mb-3">
+                Anda dapat mengisi survey dengan Perangkat HP Anda dengan scan QR CODE dibawah ini:
+            </div>
+
+            <div class="image-box mb-3">
+                <center>
+                    <img src="http://res.cloudinary.com/dezj1x6xp/image/upload/h_250/v1701061822/PandanViewMandeh/QRCODE_SIKM_dre3e5.png"
+                        alt="AdminLTE Logo">
+                </center>
+            </div>
+
+            <div class="box">
+                Aplikasi QRCODE dapat di download di PlayStore dengan mencari "QRCODE" di Smartphone Anda
+            </div>
+
+        </div>
     </div>
 </template>
   
