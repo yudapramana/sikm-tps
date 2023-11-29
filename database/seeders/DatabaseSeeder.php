@@ -21,10 +21,10 @@ class DatabaseSeeder extends Seeder
         $this->call(RolesTableSeeder::class);
         $this->call(QuestionSeeder::class);
 
-        Schema::drop('users');
-        $path = public_path('sql/users_ptsp.sql');
-        $sql = file_get_contents($path);
-        DB::unprepared($sql);
+        // Schema::drop('users');
+        // $path = public_path('sql/users_ptsp.sql');
+        // $sql = file_get_contents($path);
+        // DB::unprepared($sql);
 
 
         Schema::drop('role_has_permissions');

@@ -23,7 +23,35 @@ class UsersTableSeeder extends Seeder
                 'jabatan' => 'Ahli Pertama - Pranata Komputer',
                 'email' => '199407292022031002@kemenag.go.id',
                 'password' => Hash::make('superadmin'),
-                'updated_at' => \Carbon\Carbon::now()
+                'updated_at' => \Carbon\Carbon::now(),
+                'profile_photo_url' => ''
+            ],
+            [
+                'name' => 'Rini Amelia, M.Pd',
+                'username' => 'riniamelia',
+                'jabatan' => 'Kepala Sekolah',
+                'email' => 'riniamelia@kgmail.com',
+                'password' => Hash::make('riniamelia'),
+                'updated_at' => \Carbon\Carbon::now(),
+                'profile_photo_url' => 'http://res.cloudinary.com/dezj1x6xp/image/upload/v1700707079/PandanViewMandeh/riniamelia_cl2oz8.jpg'
+            ],
+            [
+                'name' => 'Hengki Prima, S.Kom',
+                'username' => 'hengkiprima',
+                'jabatan' => 'Administrator',
+                'email' => 'hengkiprima@gmail.com',
+                'password' => Hash::make('hengkiprima'),
+                'updated_at' => \Carbon\Carbon::now(),
+                'profile_photo_url' => ''
+            ],
+            [
+                'name' => 'Dihen Ramadhani Puja, A.Md',
+                'username' => 'dihenrp',
+                'jabatan' => 'Kepala Seksi Pondok Pesantren',
+                'email' => 'dihenrp@gmail.com',
+                'password' => Hash::make('dihenrp'),
+                'updated_at' => \Carbon\Carbon::now(),
+                'profile_photo_url' => ''
             ],
             [
                 'name' => 'Admin',
