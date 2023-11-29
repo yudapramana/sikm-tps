@@ -86,7 +86,13 @@ CREATE TABLE `daftar_layanan` (
 -- Records of daftar_layanan
 -- ----------------------------
 BEGIN;
-INSERT INTO `daftar_layanan` VALUES (1, NULL, NULL, NULL, 'Pelayanan SMAN 3 PAINAN', 1, 1, 1, 1, 0, '', '');
+INSERT INTO `daftar_layanan` VALUES (1, NULL, NULL, NULL, 'Pelayanan Kurikulum', 1, 1, 1, 1, 0, '', '');
+INSERT INTO `daftar_layanan` VALUES (2, NULL, NULL, NULL, 'Pelayanan Kesiswaan', 2, 1, 1, 1, 0, '', '');
+INSERT INTO `daftar_layanan` VALUES (3, NULL, NULL, NULL, 'Pelayanan Kepegawaian', 3, 1, 1, 1, 0, '', '');
+INSERT INTO `daftar_layanan` VALUES (4, NULL, NULL, NULL, 'Pelayanan Sarana dan Prasarana', 4, 1, 1, 1, 0, '', '');
+INSERT INTO `daftar_layanan` VALUES (5, NULL, NULL, NULL, 'Pelayanan Keasramaan', 5, 1, 1, 1, 0, '', '');
+INSERT INTO `daftar_layanan` VALUES (6, NULL, NULL, NULL, 'Pelayanan Data dan Informasi', 6, 1, 1, 1, 0, '', '');
+
 COMMIT;
 
 -- ----------------------------
@@ -157,7 +163,12 @@ CREATE TABLE `daftar_unit_pengolah` (
 -- Records of daftar_unit_pengolah
 -- ----------------------------
 BEGIN;
-INSERT INTO `daftar_unit_pengolah` VALUES (1, NULL, NULL, NULL, 'SMA Negeri 3 Painan', '', '');
+INSERT INTO `daftar_unit_pengolah` VALUES (1, NULL, NULL, NULL, 'Bidang Kurikulum', '', '');
+INSERT INTO `daftar_unit_pengolah` VALUES (2, NULL, NULL, NULL, 'Bidang Kesiswaan', '', '');
+INSERT INTO `daftar_unit_pengolah` VALUES (3, NULL, NULL, NULL, 'Bidang Kepegawaian', '', '');
+INSERT INTO `daftar_unit_pengolah` VALUES (4, NULL, NULL, NULL, 'Bidang Sarana dan Prasarana', '', '');
+INSERT INTO `daftar_unit_pengolah` VALUES (5, NULL, NULL, NULL, 'Bidang Keasramaan', '', '');
+INSERT INTO `daftar_unit_pengolah` VALUES (6, NULL, NULL, NULL, 'Bidang Data dan Informasi', '', '');
 COMMIT;
 
 SET FOREIGN_KEY_CHECKS = 1;
