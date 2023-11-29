@@ -44,7 +44,7 @@ class LoginController extends Controller
     public function index(Request $request)
     {
         $request->validate([
-            'email' => 'required|email',
+            'email' => 'required',
             'password' => 'required',
         ]);
 
