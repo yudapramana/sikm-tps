@@ -3,11 +3,11 @@
         <div class="container">
             <div class="row mb-2 justify-content-md-center">
                 <div class="col-sm-5">
-                    <h1 class="m-0"> Kontak <strong>SIKM KemenagPessel</strong></h1>
+                    <h1 class="m-0"> Kontak <strong>SIKM SMAN 3 PAINAN</strong></h1>
                 </div>
                 <div class="col-sm-5">
                     <ol class="breadcrumb float-sm-right">
-                        <li class="breadcrumb-item"><a href="#">SIKM KemenagPessel</a></li>
+                        <li class="breadcrumb-item"><a href="#">SIKM SMAN 3 PAINAN</a></li>
                         <li class="breadcrumb-item"><a href="#">Kontak</a></li>
                         <li class="breadcrumb-item active">Index</li>
                     </ol>
